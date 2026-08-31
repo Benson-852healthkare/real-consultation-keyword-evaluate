@@ -1,0 +1,11 @@
+.env
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.coverage
+htmlcov/
+
+# Real consultation data, generated transcripts, and evaluation artifacts.
+input/
+results/
